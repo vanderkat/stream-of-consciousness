@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+  {{ if .Title }}
+    {{ partial "heading.html" . }}
+  {{ end }}
+
+  {{ .Content }}
+
+{{ end }}

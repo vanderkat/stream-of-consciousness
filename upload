@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+git config --local user.name "VanDerCat"
+git config --local user.email "wandercat@gmail.com"
+git config --local core.sshCommand "ssh -i ../vanderkat"
+git config --local core.editor "nano"
+
+git push -f
