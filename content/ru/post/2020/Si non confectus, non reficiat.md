@@ -1,3 +1,9 @@
-{"persons":"Terry Pratchett","tags":"Havelock Vetinari","categories":"Цитаты","title":"Si non confectus, non reficiat","date":"2020-09-29","authors":{}}
+{
+   "authors": "Terry Pratchett",
+   "categories": "Цитаты",
+   "date": "2020-09-29",
+   "tags": "Havelock Vetinari",
+   "title": "Si non confectus, non reficiat"
+}
 
 "Не сломано - не чини"

@@ -1,4 +1,9 @@
-{"title":"Inglourious Basterds","persons":"Quentin Tarantino","date":"2013-02-07","authors":{},"categories":"Видеоряд"}
+{
+   "authors": "Quentin Tarantino",
+   "categories": "Видеоряд",
+   "date": "2013-02-07",
+   "title": "Inglourious Basterds"
+}
 
 В оккупированной Франции идет охота на евреев. Которые, в свою очередь, охотятся на охотников на евреев. Американцы, разумеется - лейтенант Альдо "Апач" собирает американских евреев и они наводят ужас на весь рейх...
 
