@@ -1,13 +1,4 @@
-{
-   "categories": [
-      "Видеоряд"
-   ],
-   "date": "2005-06-05",
-   "tags": [
-      "Star Wars"
-   ],
-   "title": "Звездные войны - эпизод 3"
-}
+{"date":"2005-06-05","persons":"George Lucas","title":"Звездные войны - эпизод 3","categories":["Видеоряд"],"tags":["Star Wars"]}
 
 **Месть ситхов**
 

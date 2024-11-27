@@ -1,13 +1,4 @@
-{
-   "categories": [
-      "Видеоряд"
-   ],
-   "date": "2005-06-04",
-   "tags": [
-      "Star Wars"
-   ],
-   "title": "Звездные войны - эпизод 2"
-}
+{"date":"2005-06-04","persons":"George Lucas","title":"Звездные войны - эпизод 2","categories":["Видеоряд"],"tags":["Star Wars"]}
 
 **Атака клонов**
 
