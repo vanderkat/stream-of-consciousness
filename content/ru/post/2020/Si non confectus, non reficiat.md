@@ -1,9 +1,6 @@
 {
     "title":"Si non confectus, non reficiat",
-    "persons" : [
-	"Terry Pretchett", 
-	"Havelock Vetinari"
-    ],
+    "authors" : "Terry Pratchett", 
     "date":"2020-09-29",
     "categories":"Цитаты"
 }
