@@ -1,11 +1,7 @@
 {
-   "categories": [
-      "Книги"
-   ],
+   "categories": "Книги",
    "date": "2005-08-16",
-   "persons": [
-      "Stephen King"
-   ],
+   "authors": "Stephen King",
    "title": "Темная Башня"
 }
 
